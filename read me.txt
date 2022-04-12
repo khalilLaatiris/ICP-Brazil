@@ -1,0 +1,30 @@
+
+crawling data from ICP-Brasil read me file
+
+----------requirements------------
+
+the installation file "bat" is made for windows machine.
+
+first of all you need to install python in your machine exactly the python 3.x.x : https://www.python.org/downloads/
+
+----------installation------------
+
+click on installlation.bat file and wait tell the end of all module download and installation.
+
+-----------execution--------------
+
+double click on launcher.bat file the open the graphic app for you.
+
+------------out data--------------
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!---Important---!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+notice that  every new update will create a new file depende on the web site actualisation, if the file already exist and you clicked update the file will replace with a new one (--make sure you are note modifing-- it and --close it--).
+
+
+
+-----------Contacts------------
+
+if something happened to the app contact me !!
+
+fiverr: https://www.fiverr.com/khalil_ltrs
+
+email: khalil.laatiris@gmail.com

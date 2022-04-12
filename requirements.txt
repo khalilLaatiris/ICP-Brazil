@@ -1,0 +1,4 @@
+requests
+PyQt5
+bs4
+pandas
